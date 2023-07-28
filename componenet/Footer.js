@@ -7,7 +7,7 @@ import { LinkedinOutlined, TwitterOutlined }  from '@ant-design/icons';
 function Footer() {
   return (
     <>
-      <div className="footer mt-5 container-fluid bg-light mt-5">
+      <div className="footer mt-5 container-fluid bg-light mt-5 shadow mb-5 bg-white rounded">
         <div className="justify-comtent-center pt-3 row">
 
           <div className="footer-logo col-md-3 col-sm-4 mx-3">
