@@ -1,0 +1,24 @@
+
+
+.stackText{
+    color: #8b5cf6;
+    font-weight: bold;
+}
+
+.infoText{
+    color: #F472B6;
+    font-weight: bold;
+}
+
+.mainColor1{
+    color: #5C18F7;
+}
+
+.mainColor2{
+    color: #F472B6;
+
+}
+
+.bt{
+    border: solid 1px red;
+}
