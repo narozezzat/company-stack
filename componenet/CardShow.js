@@ -67,6 +67,12 @@ export default function cardShow() {
       img: "/images/fruit-8.jpeg",
       price: "$12.20",
     },
+    {
+      title: "Banana",
+      img: "/images/fruit-7.jpeg",
+      price: "$7.50",
+    },
+    
   ];
 
 
