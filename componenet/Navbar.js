@@ -25,7 +25,7 @@ function Navbar() {
             <span className="navbar-toggler-icon"></span>
           </button>
 
-          <div className="collapse navbar-collapse" id="navbarNav">
+          <div className="collapse navbar-collapse" id="navbarNav" style={{fontSize: "1.3rem"}}>
             <ul className="navbar-nav">
               <li className="nav-item">
                 <Link className="nav-link active" aria-current="page" href="/">Home</Link>
