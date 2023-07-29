@@ -14,8 +14,8 @@ function Information() {
             </div>
             
             <div className="col-md-6 col-sm-12">
-                <h1 className="" style={{ color: "#F472B6", fontWeight: "bold" }}>Let's feature your organization here on Stack Info!</h1>
-                <p>Start by simply adding your organization's details and include the technology stack you use, and get featured on one of the most interesting tech platforms in Egypt!</p>
+                <h1 className="" style={{ color: "#F472B6", fontWeight: "bold" }}>Let is feature your organization here on Stack Info!</h1>
+                <p>Start by simply adding your organization is details and include the technology stack you use, and get featured on one of the most interesting tech platforms in Egypt!</p>
                 <button className="btn get-started-outline" style={{color: "#F472B6", border: "solid 1px"}}>Get Started</button>
             </div>
 
