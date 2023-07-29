@@ -37,7 +37,7 @@ function Footer() {
             <h3>Discover</h3>
             <div className="mx-4">
               <Link href="/" className="d-block my-4">Home</Link>
-              <Link href="#">Search</Link>
+              <Link href="#" className="mb-4">Search</Link>
             </div>
 
           </div>
@@ -46,7 +46,7 @@ function Footer() {
             <h3>Who we are</h3>
             <div className="mx-4">
               <Link href="/" className="d-block my-4">About</Link>
-              <Link href="#">Privecy</Link>
+              <Link href="#" className="mb-4">Privecy</Link>
             </div>
 
           </div>
@@ -61,10 +61,6 @@ function Footer() {
 
           </div>
 
-
-          
-
-          
 
         </div>
       </div>
