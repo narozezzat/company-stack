@@ -1,0 +1,9 @@
+.listGroupItem{
+    font-family: Rubik,sans-serif!important;
+    font-size: 40px;
+    align-items: center;
+}
+
+.lin:hover{
+    color: red;
+}
