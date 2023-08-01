@@ -1,8 +1,7 @@
 export default function Post1(props) {
     return (
-        <div>
-            <p>Id: {props.post.id}</p>
-            <p>Title: {props.post.title}</p>
+        <div className="container text-center">
+            <h4 className="my-4">Title: {props.post.title}</h4>
             <p>Body: {props.post.body}</p>
 
         </div>

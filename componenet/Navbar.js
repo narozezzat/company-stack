@@ -34,10 +34,10 @@ function Navbar() {
                 <Link className="nav-link" href="/about">About</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="/contact">Contact</Link>
+                <Link className="nav-link" href="/contact">Search</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link mx-2" href="/posts">Posts</Link>
+                <Link className="nav-link mx-2" href="/posts">Form</Link>
               </li>
             </ul>
           </div> 

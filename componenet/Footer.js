@@ -7,22 +7,22 @@ import { LinkedinOutlined, TwitterOutlined }  from '@ant-design/icons';
 function Footer() {
   return (
     <div className="container-fluid bg-light mt-5">
-      <div className="row justify-content-center pt-3">
+      <div className="row pt-3 text-center">
 
-        <div className="col-md-3 col-sm-12 ">
-          <Link href="#">
-            <Image className="mx-3" title="Groove Street, Home" alt="Logo" src={logo}  style={{height: "90px", width: "90px"}}/>
+        <div className="col-md-3 col-sm-12">
+          <Link href="/">
+            <Image title="Home" alt="Logo" src={logo}  style={{height: "90px", width: "120px"}}/>
           </Link>
 
-          <div className="flex-row mb-2 justify-content-start list-group">
+          <div className="flex-row mb-4 justify-content-center list-group ">
 
-            <div className="social-media-item rounded-circle list-group-item">
+            <div className="social-media-item rounded-circle list-group-item justify-conten mx-2">
               <Link href="https://www.twitter.com/stackinfoio" target="_blank" rel="noreferrer">
                 <TwitterOutlined />
               </Link>
             </div>
 
-            <div className="social-media-item rounded-circle list-group-item mx-2">
+            <div className="social-media-item rounded-circle list-group-item mx-4">
               <Link href="https://www.linkedin.com/company/stackinfoio" target="_blank" rel="noreferrer">
                 <LinkedinOutlined />
               </Link>
@@ -33,7 +33,7 @@ function Footer() {
         <div className="col-md-3 col-sm-12">
           <h3>Discover</h3>
           <div className="mx-4">
-            <Link href="/" className="d-block mb-3">Home</Link>
+            <Link href="/" className="d-block mb-1">Home</Link>
             <Link href="#" className="d-block mb-4">Search</Link>
           </div>
         </div>
@@ -41,7 +41,7 @@ function Footer() {
         <div className="col-md-3 col-sm-12">
           <h3>Who we are</h3>
           <div className="mx-4">
-            <Link href="/" className="d-block mb-3">About</Link>
+            <Link href="/" className="d-block mb-1">About</Link>
             <Link href="#" className="d-block mb-3">Privacy</Link>
           </div>
         </div>

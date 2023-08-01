@@ -1,5 +1,5 @@
 import Head from "next/head";
-import AboutMe from './../componenet/AboutMe';
+import AboutMe from '../componenet/AboutMe';
 
 
 
