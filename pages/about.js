@@ -8,7 +8,7 @@ export default function About() {
     return (
       <>
         <Head>
-          <title>About Me</title>
+          <title>About</title>
         </Head>
         <AboutMe />
       </>

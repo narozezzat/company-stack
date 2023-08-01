@@ -1,10 +1,16 @@
 import Home from './home';
+import Head from "next/head";
 
 
 export default function home() {
   return (
-    <dev>
-      <Home />
-    </dev>
+    <>
+      <Head>
+          <title>Home</title>
+      </Head>
+      <dev>
+        <Home />
+      </dev>
+    </>
   )
 }

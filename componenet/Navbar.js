@@ -14,7 +14,7 @@ function Navbar() {
             <span>
             <Image src={logo} style={{height: "55px", width: "70px"}} alt=""/>
             <span className={styles.stackText}>STACK</span> 
-            <span className={styles.infoText}> INFO</span>
+            <span className={styles.infoText}> COMPANY</span>
             </span>
           </Link>
 
