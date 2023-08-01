@@ -10,7 +10,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg bg-body-tertiary shadow mb-5 bg-white rounded">
         <div className="container-fluid">
           
-          <Link className="navbar-brand" href="#">
+          <Link className="navbar-brand" href="/">
             <span>
             <Image src={logo} style={{height: "55px", width: "70px"}} alt=""/>
             <span className={styles.stackText}>STACK</span> 

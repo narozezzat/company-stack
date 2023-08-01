@@ -40,7 +40,7 @@ function SearchPage() {
                         {/* <Button icon={<SearchOutlined />} href="#" /> */}
                         {/* <input type="text" className="w-75"></input>
                         <Button icon={<SearchOutlined />}>Search</Button> */}
-                        <Search placeholder="input search text" enterButton="Search" size="large" loading />
+                        <Search placeholder="Type in a company's name" enterButton="Search" size="large" loading />
                     </form>
                 </div>
             </div>
