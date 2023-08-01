@@ -16,13 +16,13 @@ function Footer() {
 
           <div className="flex-row mb-4 justify-content-center list-group ">
 
-            <div className="social-media-item rounded-circle list-group-item justify-conten mx-2">
+            <div className="social-media-item rounded-circle list-group-item justify-conten mx-1">
               <Link href="https://www.twitter.com/stackinfoio" target="_blank" rel="noreferrer">
                 <TwitterOutlined />
               </Link>
             </div>
 
-            <div className="social-media-item rounded-circle list-group-item mx-4">
+            <div className="social-media-item rounded-circle list-group-item mx-3">
               <Link href="https://www.linkedin.com/company/stackinfoio" target="_blank" rel="noreferrer">
                 <LinkedinOutlined />
               </Link>
