@@ -34,7 +34,7 @@ function Navbar() {
                 <Link className="nav-link" href="/about">About</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="/contact">Search</Link>
+                <Link className="nav-link" href="/search">Search</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link mx-2" href="/posts">Form</Link>

@@ -1,3 +1,4 @@
+import SearchPage from "@/componenet/SearchPage";
 import Head from "next/head";
 
 
@@ -7,7 +8,7 @@ import Head from "next/head";
             <Head>
                 <title>Contact Page</title>
             </Head>
-            Contact Compoenent
+            <SearchPage />
         </dev>
         )
     }
